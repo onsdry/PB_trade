@@ -192,7 +192,7 @@
         placeholder: {
           '/': '搜索'
         }
-      },
+      }，
 	  
       pagination: {
         previousText: 'PREV',
